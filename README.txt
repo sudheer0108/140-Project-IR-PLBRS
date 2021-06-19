@@ -1,11 +1,11 @@
 INFORMATION RETRIEVAL PROJECT README.txt file
 
 There are 5 files were zipped
-1.Entertainment.csv
-2.trie
-3.preprocessing.py
-4.retrieve.ipynb
-5.Documentation.
+	1.Entertainment.csv
+	2.trie
+	3.preprocessing.py
+	4.retrieve.ipynb
+	5.Documentation.
 
 *we will do preprocessing to eliminate stopwords  so from nltk module stopwords should be imported'from nltk.corpus import stopwords'
 
